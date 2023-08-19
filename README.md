@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ketan3902
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently persuing undergraduation drgree BCA.
-- �  This is my LinkedIn profile link www.linkedin.com/in/ketan-patil-5a14401b3
+- 🌱 I’m currently persuing post graduation drgree MCA.
+- �  My LinkedIn profile link https://www.linkedin.com/in/ketanpatil3146/
 - 📫 You can reach me through my gmail ketanpatil3146@gmail.com
 
 <!---
